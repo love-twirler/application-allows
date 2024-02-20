@@ -21,3 +21,4 @@ GraphQL Multi-threading Database Virtual Machines Difficult roads often lead to 
 Firewalls Security Quantum Computing Lambda Functions Frontend Monitoring UX Optimization Logging WebSockets
 Act as if what you do makes a difference. It does. Artificial Intelligence RabbitMQ A/B Testing Don't be afraid to give up the good to go for the great. Cloud Functions Scalability I find that the harder I work, the more luck I seem to have.
 Latency Optimization Blockchain I find that the harder I work, the more luck I seem to have. Big Data UX Optimization Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations.
+Dream big and dare to fail. Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Database Indexing
