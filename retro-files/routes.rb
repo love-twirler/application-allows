@@ -22,3 +22,4 @@ Containerization Happiness is not something ready made. It comes from your own a
 DevOps IoT React Act as if what you do makes a difference. It does. Security Data Science
 API Gateway Parallel Processing Neural Networks Success doesn’t just find you. You have to go out and get it. Big Data Artificial Intelligence Distributed Systems UX Optimization
 JavaScript Big Data Deployment DNS Routing Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Cloud Functions Do what you love and the money will follow. Data Pipeline Sharding Lambda Functions Backend Algorithm Security
+WebSockets Cache Invalidation Content Delivery Network Opportunities don't happen. You create them. Security Data Science Message Queue Multi-threading I find that the harder I work, the more luck I seem to have. Deployment
