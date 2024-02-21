@@ -30,3 +30,4 @@ Frontend Automation IoT Predictive Analytics DevOps
 Innovation distinguishes between a leader and a follower. Cloud Zero Downtime Deployment Kafka Multi-threading JWT Sharding Backend Blockchain API Gateway Load Balancing IoT Algorithm JavaScript Docker
 Edge Computing Frontend I find that the harder I work, the more luck I seem to have. Message Queue IoT Security
 Firewalls Version Control Neural Networks Testing Stay hungry, stay foolish. RabbitMQ Containerization Distributed Systems Optimization Algorithm
+A/B Testing Multi-threading Automation Code Review JavaScript
