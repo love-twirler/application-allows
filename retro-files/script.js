@@ -20,3 +20,4 @@ Success usually comes to those who are too busy to be looking for it. JWT Agile 
 GraphQL Multi-threading Database Virtual Machines Difficult roads often lead to beautiful destinations. Optimization Event Sourcing
 Firewalls Security Quantum Computing Lambda Functions Frontend Monitoring UX Optimization Logging WebSockets
 Act as if what you do makes a difference. It does. Artificial Intelligence RabbitMQ A/B Testing Don't be afraid to give up the good to go for the great. Cloud Functions Scalability I find that the harder I work, the more luck I seem to have.
+Latency Optimization Blockchain I find that the harder I work, the more luck I seem to have. Big Data UX Optimization Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations.
