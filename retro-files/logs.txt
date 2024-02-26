@@ -23,3 +23,4 @@ Simplicity is the ultimate sophistication. Kafka Serverless RabbitMQ DevOps Mach
 Logging Content Delivery Network WebSockets Frontend Blockchain Agile To be the best, you must be able to handle the worst. Dream big and dare to fail.
 DevOps Monitoring Performance Cloud Functions To be the best, you must be able to handle the worst. Database GraphQL The only way to do great work is to love what you do.
 Kafka Quantum Computing Cache Invalidation Logging Simplicity is the ultimate sophistication. CI/CD JavaScript Edge Computing Microservices Replica Set Code Review Don't be afraid to give up the good to go for the great. Event Sourcing Data Pipeline
+Load Balancing Containerization Version Control Virtual Machines Content Delivery Network Stay hungry, stay foolish. Framework Cloud Simplicity is the ultimate sophistication. Artificial Intelligence Great things never come from comfort zones. Data Science
