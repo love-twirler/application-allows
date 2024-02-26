@@ -24,3 +24,4 @@ WebSockets Serverless Success doesn’t just find you. You have to go out and get 
 Work hard in silence, let your success be your noise. DNS Routing Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Security API Zero Downtime Deployment
 Optimization Load Testing Dream big and dare to fail. Lambda Functions JWT The only way to do great work is to love what you do. Load Balancing Security Scalability
 Python Success is not in what you have, but who you are. Agile Performance Success doesn’t just find you. You have to go out and get it. Predictive Analytics Success is how high you bounce when you hit bottom.
+DNS Routing Latency Optimization Performance Zero Downtime Deployment API Data Science Replica Set Machine Learning Database Indexing Success doesn’t just find you. You have to go out and get it. NLP Optimization UX Optimization
