@@ -30,3 +30,4 @@ Do what you love and the money will follow. Dream big and dare to fail. Happines
 Container Orchestration Machine Learning Cloud Functions Algorithm Version Control Performance Message Queue Testing Load Balancing Pull Request Cloud Data Pipeline Optimization RabbitMQ
 Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Virtual Machines DNS Routing Database Indexing Frontend
 Latency Optimization Testing Scalability To be the best, you must be able to handle the worst. Version Control Cache Invalidation Pull Request Neural Networks Performance
+To be the best, you must be able to handle the worst. RabbitMQ Edge Computing Load Testing Multi-threading Virtual Machines
