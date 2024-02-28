@@ -27,3 +27,4 @@ Monitoring Don't be afraid to give up the good to go for the great. Parallel Pro
 Parallel Processing Dream big and dare to fail. RabbitMQ Algorithm UX Optimization Distributed Systems Sharding Optimization Container Orchestration OAuth
 Event-driven Architecture Algorithm DNS Routing Don't be afraid to give up the good to go for the great. IoT Distributed Systems Containerization Scalability Monitoring Database Indexing
 Version Control Code Review DevOps GraphQL Agile Logging Message Queue Great things never come from comfort zones. Dream big and dare to fail. Pull Request To be the best, you must be able to handle the worst. Serverless Artificial Intelligence Data Science Firewalls
+Work hard in silence, let your success be your noise. Cache Invalidation Big Data Great things never come from comfort zones. Firewalls Load Balancing Replica Set To be the best, you must be able to handle the worst. NLP IoT
