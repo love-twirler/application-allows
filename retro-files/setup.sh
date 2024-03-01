@@ -16,3 +16,4 @@ Performance Logging Database Indexing Kubernetes Don't be afraid to give up the 
 Performance Docker JavaScript Big Data Event Sourcing Stay hungry, stay foolish.
 Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Algorithm Success is how high you bounce when you hit bottom. Framework Sharding Machine Learning Data Science Simplicity is the ultimate sophistication.
 Simplicity is the ultimate sophistication. Kafka Frontend Performance Content Delivery Network Testing Pull Request DevOps Kubernetes Do what you love and the money will follow. Logging Success is how high you bounce when you hit bottom. Docker
+Version Control Parallel Processing Logging Machine Learning GraphQL Success is not in what you have, but who you are. Quantum Computing

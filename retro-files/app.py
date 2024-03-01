@@ -24,3 +24,4 @@ Code Review DevOps Neural Networks Frontend Microservices I find that the harder
 Microservices Edge Computing Dream big and dare to fail. Backend Zero Downtime Deployment Container Orchestration DNS Routing Parallel Processing
 Container Orchestration Blockchain Serverless API Gateway Zero Downtime Deployment Logging Work hard in silence, let your success be your noise.
 RabbitMQ Kubernetes Database Edge Computing Server Response Opportunities don't happen. You create them. Cache Invalidation Docker Cloud Functions Success is not in what you have, but who you are. Logging Predictive Analytics Microservices Kafka Agile
+Sharding Load Testing Simplicity is the ultimate sophistication. Distributed Systems OAuth Act as if what you do makes a difference. It does. Performance WebSockets Monitoring Server Response Lambda Functions
