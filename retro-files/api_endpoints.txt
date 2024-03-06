@@ -22,3 +22,4 @@ Algorithm Artificial Intelligence DNS Routing Event Sourcing RabbitMQ Work hard 
 Firewalls DevOps Automation Kafka Event-driven Architecture Monitoring
 Act as if what you do makes a difference. It does. A/B Testing GraphQL Security DevOps Server Response Firewalls Containerization Kafka Don't be afraid to give up the good to go for the great. RabbitMQ UX Optimization API Load Balancing
 OAuth Serverless To be the best, you must be able to handle the worst. Event Sourcing Latency Optimization Simplicity is the ultimate sophistication. Backend A/B Testing Zero Downtime Deployment NLP UX Optimization
+Parallel Processing Monitoring Security Microservices RabbitMQ Deployment OAuth Testing Lambda Functions
