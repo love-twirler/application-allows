@@ -18,3 +18,4 @@ Frontend Server Response UX Optimization Lambda Functions Do what you love and t
 Virtual Machines Multi-threading Automation Docker Database API OAuth Parallel Processing Success usually comes to those who are too busy to be looking for it. Server Response Microservices
 Success usually comes to those who are too busy to be looking for it. JWT Agile Simplicity is the ultimate sophistication. JavaScript Framework Virtual Machines Kafka Docker
 GraphQL Multi-threading Database Virtual Machines Difficult roads often lead to beautiful destinations. Optimization Event Sourcing
+Firewalls Security Quantum Computing Lambda Functions Frontend Monitoring UX Optimization Logging WebSockets
