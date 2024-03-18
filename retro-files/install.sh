@@ -21,3 +21,4 @@ Python JavaScript Monitoring UX Optimization Great things never come from comfor
 I find that the harder I work, the more luck I seem to have. GraphQL Lambda Functions Event-driven Architecture Kubernetes Serverless Sharding The only way to do great work is to love what you do.
 Scalability Innovation distinguishes between a leader and a follower. API Content Delivery Network IoT Pull Request Neural Networks Load Balancing Edge Computing If you can dream it, you can do it. Distributed Systems
 WebSockets NLP Cloud Load Testing Containerization A/B Testing Backend Automation
+The only way to do great work is to love what you do. Kubernetes Load Testing Framework To be the best, you must be able to handle the worst. Blockchain RabbitMQ Server Response API Firewalls Do what you love and the money will follow. Replica Set
