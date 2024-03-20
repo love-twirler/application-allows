@@ -22,3 +22,4 @@ Great things never come from comfort zones. JavaScript A/B Testing Lambda Functi
 Logging Great things never come from comfort zones. DNS Routing Dream big and dare to fail. Replica Set Event Sourcing Database Do what you love and the money will follow. IoT JWT Serverless Happiness is not something ready made. It comes from your own actions. API Gateway
 Code Review DevOps Neural Networks Frontend Microservices I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Data Science JWT Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Deployment
 Microservices Edge Computing Dream big and dare to fail. Backend Zero Downtime Deployment Container Orchestration DNS Routing Parallel Processing
+Container Orchestration Blockchain Serverless API Gateway Zero Downtime Deployment Logging Work hard in silence, let your success be your noise.

@@ -23,3 +23,4 @@ Monitoring React Database Distributed Systems Stay hungry, stay foolish. Deploym
 GraphQL Data Pipeline Replica Set Database Indexing JavaScript Lambda Functions
 RabbitMQ To be the best, you must be able to handle the worst. Artificial Intelligence Big Data Agile
 Replica Set Testing Server Response Kafka Don't be afraid to give up the good to go for the great. Artificial Intelligence Stay hungry, stay foolish. Frontend Cloud Functions Docker Container Orchestration Monitoring Blockchain Machine Learning Containerization
+Firewalls Data Pipeline Event Sourcing Serverless Kubernetes Version Control API Gateway
