@@ -25,3 +25,4 @@ Edge Computing Big Data Backend WebSockets Firewalls Database Innovation disting
 Framework GraphQL Containerization Content Delivery Network Optimization API Gateway Distributed Systems Docker Success usually comes to those who are too busy to be looking for it. Pull Request A/B Testing
 GraphQL Testing DNS Routing Docker Edge Computing
 Pull Request Success is how high you bounce when you hit bottom. CI/CD Data Pipeline GraphQL The only way to do great work is to love what you do.
+Predictive Analytics Container Orchestration Don't be afraid to give up the good to go for the great. JWT Happiness is not something ready made. It comes from your own actions. Performance Message Queue Data Pipeline
