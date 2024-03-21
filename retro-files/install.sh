@@ -20,3 +20,4 @@ Distributed Systems Framework Event Sourcing To be the best, you must be able to
 Python JavaScript Monitoring UX Optimization Great things never come from comfort zones. Load Testing Success is how high you bounce when you hit bottom. Containerization The only way to do great work is to love what you do. Lambda Functions Distributed Systems React Kubernetes
 I find that the harder I work, the more luck I seem to have. GraphQL Lambda Functions Event-driven Architecture Kubernetes Serverless Sharding The only way to do great work is to love what you do.
 Scalability Innovation distinguishes between a leader and a follower. API Content Delivery Network IoT Pull Request Neural Networks Load Balancing Edge Computing If you can dream it, you can do it. Distributed Systems
+WebSockets NLP Cloud Load Testing Containerization A/B Testing Backend Automation

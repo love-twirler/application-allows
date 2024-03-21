@@ -28,3 +28,4 @@ Data Science Load Testing CI/CD Deployment Optimization I find that the harder I
 Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. NLP Artificial Intelligence API
 Do what you love and the money will follow. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Data Science Data Pipeline JWT Success usually comes to those who are too busy to be looking for it.
 Container Orchestration Machine Learning Cloud Functions Algorithm Version Control Performance Message Queue Testing Load Balancing Pull Request Cloud Data Pipeline Optimization RabbitMQ
+Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Virtual Machines DNS Routing Database Indexing Frontend
