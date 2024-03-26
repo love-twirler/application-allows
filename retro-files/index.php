@@ -24,3 +24,4 @@ Scalability Multi-threading Database React Frontend Success is not in what you h
 Edge Computing Big Data Backend WebSockets Firewalls Database Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Containerization JavaScript Zero Downtime Deployment
 Framework GraphQL Containerization Content Delivery Network Optimization API Gateway Distributed Systems Docker Success usually comes to those who are too busy to be looking for it. Pull Request A/B Testing
 GraphQL Testing DNS Routing Docker Edge Computing
+Pull Request Success is how high you bounce when you hit bottom. CI/CD Data Pipeline GraphQL The only way to do great work is to love what you do.
