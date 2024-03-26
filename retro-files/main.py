@@ -16,3 +16,4 @@ Happiness is not something ready made. It comes from your own actions. Work hard
 Great things never come from comfort zones. Version Control Load Testing Algorithm Success is not in what you have, but who you are. The only way to do great work is to love what you do.
 OAuth If you can dream it, you can do it. Containerization Frontend Code Review Database Indexing Firewalls Great things never come from comfort zones. Serverless IoT Success is not in what you have, but who you are. Pull Request
 Success is how high you bounce when you hit bottom. Algorithm Frontend Kubernetes Don't be afraid to give up the good to go for the great.
+OAuth Security Deployment Cloud Functions Virtual Machines API Gateway Cloud Happiness is not something ready made. It comes from your own actions. Big Data NLP Work hard in silence, let your success be your noise. Backend Edge Computing
