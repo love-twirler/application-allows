@@ -23,3 +23,4 @@ Database Indexing Kafka To be the best, you must be able to handle the worst. Al
 Scalability Multi-threading Database React Frontend Success is not in what you have, but who you are. Testing Performance DNS Routing Version Control
 Edge Computing Big Data Backend WebSockets Firewalls Database Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Containerization JavaScript Zero Downtime Deployment
 Framework GraphQL Containerization Content Delivery Network Optimization API Gateway Distributed Systems Docker Success usually comes to those who are too busy to be looking for it. Pull Request A/B Testing
+GraphQL Testing DNS Routing Docker Edge Computing
