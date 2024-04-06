@@ -17,3 +17,4 @@ JavaScript Lambda Functions JWT The only way to do great work is to love what yo
 Frontend Server Response UX Optimization Lambda Functions Do what you love and the money will follow. Pull Request Success doesn’t just find you. You have to go out and get it. Quantum Computing IoT Distributed Systems Optimization
 Virtual Machines Multi-threading Automation Docker Database API OAuth Parallel Processing Success usually comes to those who are too busy to be looking for it. Server Response Microservices
 Success usually comes to those who are too busy to be looking for it. JWT Agile Simplicity is the ultimate sophistication. JavaScript Framework Virtual Machines Kafka Docker
+GraphQL Multi-threading Database Virtual Machines Difficult roads often lead to beautiful destinations. Optimization Event Sourcing

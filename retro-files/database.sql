@@ -20,3 +20,4 @@ Algorithm Database Indexing Server Response Happiness is not something ready mad
 Deployment Cache Invalidation Kafka I find that the harder I work, the more luck I seem to have. Distributed Systems Stay hungry, stay foolish. UX Optimization Database Parallel Processing Content Delivery Network Cloud Optimization RabbitMQ
 Lambda Functions Python If you can dream it, you can do it. Framework Logging React A/B Testing Testing I find that the harder I work, the more luck I seem to have. Cloud Performance Opportunities don't happen. You create them. Message Queue Machine Learning Frontend
 Monitoring React Database Distributed Systems Stay hungry, stay foolish. Deployment Performance DevOps Opportunities don't happen. You create them.
+GraphQL Data Pipeline Replica Set Database Indexing JavaScript Lambda Functions
