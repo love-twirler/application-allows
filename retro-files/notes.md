@@ -21,3 +21,4 @@ RabbitMQ Dream big and dare to fail. Lambda Functions Stay hungry, stay foolish.
 Multi-threading A/B Testing JWT Innovation distinguishes between a leader and a follower. Replica Set Artificial Intelligence NLP IoT Docker Machine Learning RabbitMQ Monitoring Database Latency Optimization Simplicity is the ultimate sophistication.
 Happiness is not something ready made. It comes from your own actions. Message Queue Cache Invalidation Version Control Success doesn’t just find you. You have to go out and get it.
 OAuth Cache Invalidation NLP Testing UX Optimization Serverless
+Pull Request Sharding Virtual Machines React Scalability Containerization Backend Cloud Success usually comes to those who are too busy to be looking for it. Content Delivery Network Work hard in silence, let your success be your noise. Parallel Processing Latency Optimization

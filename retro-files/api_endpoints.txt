@@ -19,3 +19,4 @@ Difficult roads often lead to beautiful destinations. Performance Innovation dis
 Database Indexing Innovation distinguishes between a leader and a follower. JWT The only way to do great work is to love what you do. Blockchain RabbitMQ CI/CD Happiness is not something ready made. It comes from your own actions. DevOps Serverless Simplicity is the ultimate sophistication. Microservices Parallel Processing Work hard in silence, let your success be your noise. Neural Networks
 Data Pipeline Load Testing Data Science UX Optimization API Do what you love and the money will follow.
 Algorithm Artificial Intelligence DNS Routing Event Sourcing RabbitMQ Work hard in silence, let your success be your noise. Do what you love and the money will follow. Machine Learning Blockchain DevOps Docker Database Indexing Load Testing Kubernetes
+Firewalls DevOps Automation Kafka Event-driven Architecture Monitoring
