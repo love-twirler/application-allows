@@ -26,3 +26,4 @@ Algorithm Neural Networks React Success doesn’t just find you. You have to go ou
 Quantum Computing Happiness is not something ready made. It comes from your own actions. Blockchain Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. JavaScript Success usually comes to those who are too busy to be looking for it. Microservices Code Review Cloud Functions OAuth
 Container Orchestration Monitoring Containerization I find that the harder I work, the more luck I seem to have. Deployment Code Review Firewalls Event-driven Architecture React
 Testing Framework Success is not in what you have, but who you are. Artificial Intelligence JWT To be the best, you must be able to handle the worst. Latency Optimization Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Do what you love and the money will follow.
+Frontend Automation IoT Predictive Analytics DevOps

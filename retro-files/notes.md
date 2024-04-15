@@ -20,3 +20,4 @@ Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Algorithm 
 RabbitMQ Dream big and dare to fail. Lambda Functions Stay hungry, stay foolish. Security React Parallel Processing Message Queue Version Control Event-driven Architecture UX Optimization Serverless
 Multi-threading A/B Testing JWT Innovation distinguishes between a leader and a follower. Replica Set Artificial Intelligence NLP IoT Docker Machine Learning RabbitMQ Monitoring Database Latency Optimization Simplicity is the ultimate sophistication.
 Happiness is not something ready made. It comes from your own actions. Message Queue Cache Invalidation Version Control Success doesn’t just find you. You have to go out and get it.
+OAuth Cache Invalidation NLP Testing UX Optimization Serverless
