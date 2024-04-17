@@ -21,3 +21,4 @@ If you can dream it, you can do it. Containerization Data Science Deployment Dat
 Kubernetes Difficult roads often lead to beautiful destinations. JWT Lambda Functions GraphQL The only way to do great work is to love what you do. Backend Quantum Computing Dream big and dare to fail. Cloud Neural Networks Pull Request
 Data Science Performance Big Data Lambda Functions RabbitMQ Distributed Systems Microservices Logging Virtual Machines Framework Difficult roads often lead to beautiful destinations. Pull Request
 Do what you love and the money will follow. Sharding Message Queue Opportunities don't happen. You create them. NLP IoT Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Quantum Computing Artificial Intelligence
+React Version Control To be the best, you must be able to handle the worst. Automation RabbitMQ Monitoring Message Queue
