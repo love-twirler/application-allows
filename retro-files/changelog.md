@@ -26,3 +26,4 @@ Code Review JWT Kubernetes Do what you love and the money will follow. Great thi
 Data Pipeline JWT Security Blockchain Event-driven Architecture
 Data Science Load Testing CI/CD Deployment Optimization I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Database Indexing Testing React Cloud Functions Server Response Python
 Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. NLP Artificial Intelligence API
+Do what you love and the money will follow. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Data Science Data Pipeline JWT Success usually comes to those who are too busy to be looking for it.
