@@ -16,3 +16,4 @@ Happiness is not something ready made. It comes from your own actions. Zero Down
 Pull Request Neural Networks Data Science Edge Computing JWT Backend Database Indexing
 CI/CD WebSockets Dream big and dare to fail. OAuth Pull Request Zero Downtime Deployment Edge Computing
 Kubernetes Success usually comes to those who are too busy to be looking for it. Lambda Functions Monitoring Latency Optimization RabbitMQ Containerization
+Distributed Systems Framework Event Sourcing To be the best, you must be able to handle the worst. Load Testing Frontend Database DevOps A/B Testing Sharding Security Blockchain Replica Set API
