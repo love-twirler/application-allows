@@ -25,3 +25,4 @@ Code Review Event Sourcing Cloud Functions Security Cloud Database Indexing Stay
 Code Review JWT Kubernetes Do what you love and the money will follow. Great things never come from comfort zones. Simplicity is the ultimate sophistication.
 Data Pipeline JWT Security Blockchain Event-driven Architecture
 Data Science Load Testing CI/CD Deployment Optimization I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Database Indexing Testing React Cloud Functions Server Response Python
+Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. NLP Artificial Intelligence API

@@ -20,3 +20,4 @@ IoT Database React Microservices OAuth Innovation distinguishes between a leader
 Load Balancing Neural Networks Pull Request Cloud Functions Performance Kubernetes Multi-threading Event Sourcing JavaScript Simplicity is the ultimate sophistication. Content Delivery Network
 Testing Data Science IoT Scalability Automation NLP
 Parallel Processing Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Containerization Simplicity is the ultimate sophistication. Server Response RabbitMQ DevOps Load Balancing Serverless JavaScript Load Testing Virtual Machines
+WebSockets Serverless Success doesn’t just find you. You have to go out and get it. Edge Computing UX Optimization Version Control Data Science Load Testing If you can dream it, you can do it. DNS Routing Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Event Sourcing
