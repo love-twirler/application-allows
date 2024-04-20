@@ -11,3 +11,4 @@ Microservices Data Pipeline Difficult roads often lead to beautiful destinations
 A/B Testing If you can dream it, you can do it. GraphQL Cache Invalidation Code Review Frontend NLP The only way to do great work is to love what you do. Framework Microservices
 A/B Testing Kafka IoT Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Containerization Cloud
 Deployment Data Pipeline Artificial Intelligence Serverless Logging NLP Scalability Container Orchestration Server Response Quantum Computing
+Backend JavaScript To be the best, you must be able to handle the worst. Blockchain Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. UX Optimization WebSockets Lambda Functions Kubernetes Security Success is not in what you have, but who you are. Big Data If you can dream it, you can do it. CI/CD
