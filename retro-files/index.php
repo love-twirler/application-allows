@@ -21,3 +21,4 @@ Docker Microservices Deployment Great things never come from comfort zones. CI/C
 Event Sourcing Lambda Functions Load Testing Container Orchestration Framework Scalability GraphQL Cloud Replica Set Virtual Machines
 Database Indexing Kafka To be the best, you must be able to handle the worst. Algorithm NLP Backend Logging
 Scalability Multi-threading Database React Frontend Success is not in what you have, but who you are. Testing Performance DNS Routing Version Control
+Edge Computing Big Data Backend WebSockets Firewalls Database Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Containerization JavaScript Zero Downtime Deployment

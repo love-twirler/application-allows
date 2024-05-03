@@ -19,3 +19,4 @@ Difficult roads often lead to beautiful destinations. Zero Downtime Deployment C
 IoT Database React Microservices OAuth Innovation distinguishes between a leader and a follower. Database Indexing Machine Learning Event Sourcing Blockchain Success is not in what you have, but who you are. Do what you love and the money will follow. Distributed Systems
 Load Balancing Neural Networks Pull Request Cloud Functions Performance Kubernetes Multi-threading Event Sourcing JavaScript Simplicity is the ultimate sophistication. Content Delivery Network
 Testing Data Science IoT Scalability Automation NLP
+Parallel Processing Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Containerization Simplicity is the ultimate sophistication. Server Response RabbitMQ DevOps Load Balancing Serverless JavaScript Load Testing Virtual Machines
