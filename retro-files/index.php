@@ -20,3 +20,4 @@ JWT Event-driven Architecture Machine Learning Content Delivery Network Parallel
 Docker Microservices Deployment Great things never come from comfort zones. CI/CD Blockchain API Gateway Framework Logging Happiness is not something ready made. It comes from your own actions. Machine Learning Code Review
 Event Sourcing Lambda Functions Load Testing Container Orchestration Framework Scalability GraphQL Cloud Replica Set Virtual Machines
 Database Indexing Kafka To be the best, you must be able to handle the worst. Algorithm NLP Backend Logging
+Scalability Multi-threading Database React Frontend Success is not in what you have, but who you are. Testing Performance DNS Routing Version Control
