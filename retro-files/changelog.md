@@ -24,3 +24,4 @@ Microservices Act as if what you do makes a difference. It does. Happiness is no
 Code Review Event Sourcing Cloud Functions Security Cloud Database Indexing Stay hungry, stay foolish. Sharding CI/CD OAuth Algorithm
 Code Review JWT Kubernetes Do what you love and the money will follow. Great things never come from comfort zones. Simplicity is the ultimate sophistication.
 Data Pipeline JWT Security Blockchain Event-driven Architecture
+Data Science Load Testing CI/CD Deployment Optimization I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Database Indexing Testing React Cloud Functions Server Response Python

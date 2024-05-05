@@ -17,3 +17,4 @@ Code Review Data Science Microservices Innovation distinguishes between a leader
 CI/CD Message Queue Event-driven Architecture Quantum Computing Server Response
 Artificial Intelligence Replica Set Container Orchestration Great things never come from comfort zones. React Big Data Server Response Cloud Database
 Algorithm Database Indexing Server Response Happiness is not something ready made. It comes from your own actions. Virtual Machines Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.
+Deployment Cache Invalidation Kafka I find that the harder I work, the more luck I seem to have. Distributed Systems Stay hungry, stay foolish. UX Optimization Database Parallel Processing Content Delivery Network Cloud Optimization RabbitMQ
