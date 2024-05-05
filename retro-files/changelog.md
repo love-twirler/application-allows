@@ -23,3 +23,4 @@ Stay hungry, stay foolish. Cache Invalidation Virtual Machines A/B Testing Succe
 Microservices Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Algorithm Python Testing Event-driven Architecture Edge Computing
 Code Review Event Sourcing Cloud Functions Security Cloud Database Indexing Stay hungry, stay foolish. Sharding CI/CD OAuth Algorithm
 Code Review JWT Kubernetes Do what you love and the money will follow. Great things never come from comfort zones. Simplicity is the ultimate sophistication.
+Data Pipeline JWT Security Blockchain Event-driven Architecture
