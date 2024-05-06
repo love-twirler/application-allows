@@ -18,3 +18,4 @@ WebSockets Happiness is not something ready made. It comes from your own actions
 JavaScript Serverless Load Testing JWT Work hard in silence, let your success be your noise. Virtual Machines Docker
 A/B Testing Testing Neural Networks Microservices Docker Server Response NLP I find that the harder I work, the more luck I seem to have. React Serverless
 If you can dream it, you can do it. Containerization Data Science Deployment Database Content Delivery Network Monitoring Cloud Functions DNS Routing Kubernetes To be the best, you must be able to handle the worst. Docker I find that the harder I work, the more luck I seem to have.
+Kubernetes Difficult roads often lead to beautiful destinations. JWT Lambda Functions GraphQL The only way to do great work is to love what you do. Backend Quantum Computing Dream big and dare to fail. Cloud Neural Networks Pull Request
