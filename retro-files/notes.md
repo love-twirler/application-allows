@@ -18,3 +18,4 @@ Monitoring Stay hungry, stay foolish. Work hard in silence, let your success be 
 Lambda Functions Opportunities don't happen. You create them. WebSockets Serverless Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. If you can dream it, you can do it.
 Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Algorithm Multi-threading Agile CI/CD Zero Downtime Deployment JavaScript
 RabbitMQ Dream big and dare to fail. Lambda Functions Stay hungry, stay foolish. Security React Parallel Processing Message Queue Version Control Event-driven Architecture UX Optimization Serverless
+Multi-threading A/B Testing JWT Innovation distinguishes between a leader and a follower. Replica Set Artificial Intelligence NLP IoT Docker Machine Learning RabbitMQ Monitoring Database Latency Optimization Simplicity is the ultimate sophistication.
