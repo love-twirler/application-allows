@@ -19,3 +19,4 @@ GraphQL Deployment Sharding Backend UX Optimization Act as if what you do makes 
 Work hard in silence, let your success be your noise. Agile Edge Computing Cloud Database Message Queue Artificial Intelligence Blockchain Multi-threading Do what you love and the money will follow. CI/CD Performance Quantum Computing
 Load Balancing Scalability Cloud Functions Security Simplicity is the ultimate sophistication. CI/CD Docker Monitoring Lambda Functions Deployment API Neural Networks Backend Act as if what you do makes a difference. It does.
 Testing Do what you love and the money will follow. Server Response JWT Performance Backend Stay hungry, stay foolish. NLP Don't be afraid to give up the good to go for the great. Sharding IoT Serverless
+Simplicity is the ultimate sophistication. Kafka Serverless RabbitMQ DevOps Machine Learning DNS Routing API Gateway Do what you love and the money will follow. Security Pull Request Deployment
