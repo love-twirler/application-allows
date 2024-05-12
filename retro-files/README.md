@@ -15,3 +15,4 @@ Machine Learning Firewalls Dream big and dare to fail. If you can dream it, you 
 Server Response Don't be afraid to give up the good to go for the great. Message Queue IoT Deployment
 API Gateway Version Control Pull Request Neural Networks GraphQL Kubernetes React Work hard in silence, let your success be your noise.
 API Gateway Framework Event Sourcing Database CI/CD DNS Routing Data Science Version Control Event-driven Architecture
+Latency Optimization Work hard in silence, let your success be your noise. Load Testing UX Optimization Pull Request Parallel Processing Data Pipeline DevOps
