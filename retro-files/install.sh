@@ -15,3 +15,4 @@ Server Response Backend Security Containerization Innovation distinguishes betwe
 Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment NLP Security Load Balancing Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Microservices
 Pull Request Neural Networks Data Science Edge Computing JWT Backend Database Indexing
 CI/CD WebSockets Dream big and dare to fail. OAuth Pull Request Zero Downtime Deployment Edge Computing
+Kubernetes Success usually comes to those who are too busy to be looking for it. Lambda Functions Monitoring Latency Optimization RabbitMQ Containerization
