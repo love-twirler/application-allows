@@ -21,3 +21,4 @@ JavaScript Agile Work hard in silence, let your success be your noise. Blockchai
 Blockchain If you can dream it, you can do it. Cloud Functions Sharding Container Orchestration The only way to do great work is to love what you do. Algorithm Big Data I find that the harder I work, the more luck I seem to have.
 Stay hungry, stay foolish. Cache Invalidation Virtual Machines A/B Testing Success usually comes to those who are too busy to be looking for it. Kubernetes GraphQL Success is not in what you have, but who you are.
 Microservices Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Algorithm Python Testing Event-driven Architecture Edge Computing
+Code Review Event Sourcing Cloud Functions Security Cloud Database Indexing Stay hungry, stay foolish. Sharding CI/CD OAuth Algorithm
