@@ -14,3 +14,4 @@ Edge Computing Testing To be the best, you must be able to handle the worst. Agi
 Server Response Backend Security Containerization Innovation distinguishes between a leader and a follower.
 Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment NLP Security Load Balancing Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Microservices
 Pull Request Neural Networks Data Science Edge Computing JWT Backend Database Indexing
+CI/CD WebSockets Dream big and dare to fail. OAuth Pull Request Zero Downtime Deployment Edge Computing
