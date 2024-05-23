@@ -16,3 +16,4 @@ JWT If you can dream it, you can do it. Event-driven Architecture Automation Suc
 Code Review Data Science Microservices Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Neural Networks Agile
 CI/CD Message Queue Event-driven Architecture Quantum Computing Server Response
 Artificial Intelligence Replica Set Container Orchestration Great things never come from comfort zones. React Big Data Server Response Cloud Database
+Algorithm Database Indexing Server Response Happiness is not something ready made. It comes from your own actions. Virtual Machines Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.

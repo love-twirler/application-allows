@@ -17,3 +17,4 @@ Virtual Machines Simplicity is the ultimate sophistication. Frontend Automation 
 Distributed Systems Difficult roads often lead to beautiful destinations. OAuth Quantum Computing Database Microservices
 Microservices UX Optimization DNS Routing Container Orchestration JavaScript React Quantum Computing Neural Networks Work hard in silence, let your success be your noise. Scalability Sharding Monitoring Automation
 JWT Event-driven Architecture Machine Learning Content Delivery Network Parallel Processing Happiness is not something ready made. It comes from your own actions. DevOps CI/CD Kubernetes Sharding IoT Docker
+Docker Microservices Deployment Great things never come from comfort zones. CI/CD Blockchain API Gateway Framework Logging Happiness is not something ready made. It comes from your own actions. Machine Learning Code Review
