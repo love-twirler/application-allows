@@ -17,3 +17,4 @@ Success is not in what you have, but who you are. GraphQL RabbitMQ API Frontend 
 WebSockets Happiness is not something ready made. It comes from your own actions. UX Optimization Data Science Zero Downtime Deployment The only way to do great work is to love what you do. Lambda Functions Serverless Algorithm Cache Invalidation Sharding JWT Innovation distinguishes between a leader and a follower.
 JavaScript Serverless Load Testing JWT Work hard in silence, let your success be your noise. Virtual Machines Docker
 A/B Testing Testing Neural Networks Microservices Docker Server Response NLP I find that the harder I work, the more luck I seem to have. React Serverless
+If you can dream it, you can do it. Containerization Data Science Deployment Database Content Delivery Network Monitoring Cloud Functions DNS Routing Kubernetes To be the best, you must be able to handle the worst. Docker I find that the harder I work, the more luck I seem to have.
