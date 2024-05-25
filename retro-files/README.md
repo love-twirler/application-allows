@@ -13,3 +13,4 @@ Content Delivery Network Artificial Intelligence Success is not in what you have
 Stay hungry, stay foolish. Python Version Control Simplicity is the ultimate sophistication. Firewalls Neural Networks Container Orchestration Database Indexing CI/CD
 Machine Learning Firewalls Dream big and dare to fail. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. DNS Routing
 Server Response Don't be afraid to give up the good to go for the great. Message Queue IoT Deployment
+API Gateway Version Control Pull Request Neural Networks GraphQL Kubernetes React Work hard in silence, let your success be your noise.
