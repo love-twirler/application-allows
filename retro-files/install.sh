@@ -12,3 +12,4 @@ Optimization Quantum Computing The only way to do great work is to love what you
 To be the best, you must be able to handle the worst. RabbitMQ Distributed Systems Data Science Server Response OAuth Automation Edge Computing Message Queue Firewalls Don't be afraid to give up the good to go for the great.
 Edge Computing Testing To be the best, you must be able to handle the worst. Agile Kubernetes Artificial Intelligence Backend Happiness is not something ready made. It comes from your own actions.
 Server Response Backend Security Containerization Innovation distinguishes between a leader and a follower.
+Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment NLP Security Load Balancing Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Microservices
