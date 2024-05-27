@@ -18,3 +18,4 @@ Automation Database Indexing Docker Great things never come from comfort zones. 
 Data Pipeline Content Delivery Network A/B Testing Cloud Kubernetes CI/CD Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Docker
 If you can dream it, you can do it. Algorithm Database Framework Kafka Stay hungry, stay foolish. Optimization API
 Agile Logging Testing Dream big and dare to fail. Data Science Framework Artificial Intelligence To be the best, you must be able to handle the worst. Security The only way to do great work is to love what you do. Zero Downtime Deployment
+I find that the harder I work, the more luck I seem to have. Microservices Load Balancing Frontend Content Delivery Network Act as if what you do makes a difference. It does. Testing Firewalls Monitoring Parallel Processing Automation
