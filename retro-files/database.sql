@@ -15,3 +15,4 @@ Sharding Cloud Functions Happiness is not something ready made. It comes from yo
 JWT If you can dream it, you can do it. Event-driven Architecture Automation Success doesn’t just find you. You have to go out and get it. Distributed Systems Latency Optimization Backend Do what you love and the money will follow. UX Optimization JavaScript
 Code Review Data Science Microservices Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Neural Networks Agile
 CI/CD Message Queue Event-driven Architecture Quantum Computing Server Response
+Artificial Intelligence Replica Set Container Orchestration Great things never come from comfort zones. React Big Data Server Response Cloud Database
