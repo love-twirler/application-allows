@@ -16,3 +16,4 @@ Data Science Edge Computing Opportunities don't happen. You create them. Quantum
 Success is not in what you have, but who you are. GraphQL RabbitMQ API Frontend Pull Request
 WebSockets Happiness is not something ready made. It comes from your own actions. UX Optimization Data Science Zero Downtime Deployment The only way to do great work is to love what you do. Lambda Functions Serverless Algorithm Cache Invalidation Sharding JWT Innovation distinguishes between a leader and a follower.
 JavaScript Serverless Load Testing JWT Work hard in silence, let your success be your noise. Virtual Machines Docker
+A/B Testing Testing Neural Networks Microservices Docker Server Response NLP I find that the harder I work, the more luck I seem to have. React Serverless
