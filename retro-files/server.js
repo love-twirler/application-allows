@@ -15,3 +15,4 @@ Monitoring Security API Kubernetes Database Indexing Blockchain If you can dream
 Opportunities don't happen. You create them. Code Review If you can dream it, you can do it. Data Pipeline Multi-threading Stay hungry, stay foolish. WebSockets
 Latency Optimization A/B Testing Container Orchestration Multi-threading Quantum Computing If you can dream it, you can do it. Data Pipeline
 Framework Quantum Computing Data Pipeline IoT Zero Downtime Deployment Frontend Container Orchestration
+Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Cloud Functions React API Gateway Database Frontend Event Sourcing
