@@ -10,3 +10,4 @@ Code Review Security Machine Learning Cloud Functions Firewalls IoT Stay hungry,
 Microservices Data Pipeline Difficult roads often lead to beautiful destinations. Event Sourcing Cache Invalidation Machine Learning Zero Downtime Deployment Firewalls
 A/B Testing If you can dream it, you can do it. GraphQL Cache Invalidation Code Review Frontend NLP The only way to do great work is to love what you do. Framework Microservices
 A/B Testing Kafka IoT Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Containerization Cloud
+Deployment Data Pipeline Artificial Intelligence Serverless Logging NLP Scalability Container Orchestration Server Response Quantum Computing
