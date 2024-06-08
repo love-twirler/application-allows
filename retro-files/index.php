@@ -16,3 +16,4 @@ Zero Downtime Deployment Code Review Difficult roads often lead to beautiful des
 Virtual Machines Simplicity is the ultimate sophistication. Frontend Automation Firewalls Machine Learning Cloud Functions Edge Computing Event Sourcing Predictive Analytics Container Orchestration Neural Networks Kubernetes
 Distributed Systems Difficult roads often lead to beautiful destinations. OAuth Quantum Computing Database Microservices
 Microservices UX Optimization DNS Routing Container Orchestration JavaScript React Quantum Computing Neural Networks Work hard in silence, let your success be your noise. Scalability Sharding Monitoring Automation
+JWT Event-driven Architecture Machine Learning Content Delivery Network Parallel Processing Happiness is not something ready made. It comes from your own actions. DevOps CI/CD Kubernetes Sharding IoT Docker
