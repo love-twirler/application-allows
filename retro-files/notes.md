@@ -16,3 +16,4 @@ Work hard in silence, let your success be your noise. Serverless CI/CD Lambda Fu
 Do what you love and the money will follow. Cloud Success is how high you bounce when you hit bottom. Lambda Functions If you can dream it, you can do it. JWT IoT Big Data Dream big and dare to fail. Distributed Systems Firewalls React NLP Logging
 Monitoring Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Security Scalability Success is not in what you have, but who you are.
 Lambda Functions Opportunities don't happen. You create them. WebSockets Serverless Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. If you can dream it, you can do it.
+Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Algorithm Multi-threading Agile CI/CD Zero Downtime Deployment JavaScript
