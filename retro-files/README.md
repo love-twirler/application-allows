@@ -9,3 +9,4 @@ IoT Virtual Machines Security JWT Parallel Processing Message Queue API A/B Test
 Blockchain Opportunities don't happen. You create them. The only way to do great work is to love what you do. Performance Machine Learning Success doesn’t just find you. You have to go out and get it. Automation OAuth
 Act as if what you do makes a difference. It does. DNS Routing Framework Deployment Work hard in silence, let your success be your noise. Backend Containerization Optimization Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Data Science Success is not in what you have, but who you are. Big Data API UX Optimization
 Database Indexing Algorithm Logging Frontend Load Balancing
+Content Delivery Network Artificial Intelligence Success is not in what you have, but who you are. Cache Invalidation Event Sourcing CI/CD Algorithm
