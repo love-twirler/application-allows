@@ -16,3 +16,4 @@ Simplicity is the ultimate sophistication. NLP Cloud Functions Work hard in sile
 Version Control Edge Computing Monitoring IoT JWT Sharding Difficult roads often lead to beautiful destinations. Artificial Intelligence OAuth Machine Learning Serverless Docker Deployment Code Review Firewalls
 Automation Database Indexing Docker Great things never come from comfort zones. Frontend Testing To be the best, you must be able to handle the worst. Blockchain A/B Testing Load Testing JWT Message Queue Pull Request UX Optimization Data Pipeline
 Data Pipeline Content Delivery Network A/B Testing Cloud Kubernetes CI/CD Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Docker
+If you can dream it, you can do it. Algorithm Database Framework Kafka Stay hungry, stay foolish. Optimization API
