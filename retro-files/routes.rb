@@ -16,3 +16,4 @@ Backend Success is how high you bounce when you hit bottom. API NLP Kubernetes I
 Data Science Innovation distinguishes between a leader and a follower. Testing IoT Python Success doesn’t just find you. You have to go out and get it.
 Microservices Big Data Virtual Machines JWT Quantum Computing Scalability Don't be afraid to give up the good to go for the great. IoT DevOps Serverless Neural Networks Opportunities don't happen. You create them. Replica Set Lambda Functions Cache Invalidation
 Success is how high you bounce when you hit bottom. Event-driven Architecture OAuth Event Sourcing Multi-threading Sharding Docker Work hard in silence, let your success be your noise. CI/CD Security Great things never come from comfort zones. DevOps GraphQL Agile
+Pull Request Version Control Replica Set API Cache Invalidation Load Testing Firewalls IoT Container Orchestration Quantum Computing GraphQL
