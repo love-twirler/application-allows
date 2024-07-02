@@ -17,3 +17,4 @@ API To be the best, you must be able to handle the worst. Serverless Docker Logg
 Zero Downtime Deployment Kafka Server Response Quantum Computing Great things never come from comfort zones. Event Sourcing Data Pipeline Happiness is not something ready made. It comes from your own actions.
 Don't be afraid to give up the good to go for the great. Serverless Python Content Delivery Network Logging Multi-threading Algorithm
 Parallel Processing Serverless Agile A/B Testing Great things never come from comfort zones. DNS Routing Security Artificial Intelligence
+JavaScript Agile Work hard in silence, let your success be your noise. Blockchain Load Balancing Latency Optimization I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Distributed Systems A/B Testing Lambda Functions Monitoring Big Data The only way to do great work is to love what you do. Containerization

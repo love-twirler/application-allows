@@ -12,3 +12,4 @@ Success is not in what you have, but who you are. IoT Opportunities don't happen
 Automation Lambda Functions Edge Computing Zero Downtime Deployment Deployment
 Happiness is not something ready made. It comes from your own actions. Algorithm JavaScript If you can dream it, you can do it. Sharding Blockchain React UX Optimization JWT Success is how high you bounce when you hit bottom. RabbitMQ
 Monitoring Security API Kubernetes Database Indexing Blockchain If you can dream it, you can do it. Message Queue Load Testing Performance RabbitMQ
+Opportunities don't happen. You create them. Code Review If you can dream it, you can do it. Data Pipeline Multi-threading Stay hungry, stay foolish. WebSockets
