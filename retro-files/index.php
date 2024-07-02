@@ -15,3 +15,4 @@ Success is how high you bounce when you hit bottom. Optimization Backend The onl
 Zero Downtime Deployment Code Review Difficult roads often lead to beautiful destinations. Containerization Machine Learning Deployment WebSockets Opportunities don't happen. You create them.
 Virtual Machines Simplicity is the ultimate sophistication. Frontend Automation Firewalls Machine Learning Cloud Functions Edge Computing Event Sourcing Predictive Analytics Container Orchestration Neural Networks Kubernetes
 Distributed Systems Difficult roads often lead to beautiful destinations. OAuth Quantum Computing Database Microservices
+Microservices UX Optimization DNS Routing Container Orchestration JavaScript React Quantum Computing Neural Networks Work hard in silence, let your success be your noise. Scalability Sharding Monitoring Automation
