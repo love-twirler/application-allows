@@ -9,3 +9,4 @@ RabbitMQ Great things never come from comfort zones. API Gateway API Happiness i
 Edge Computing Artificial Intelligence Python Code Review Parallel Processing
 To be the best, you must be able to handle the worst. Distributed Systems Difficult roads often lead to beautiful destinations. Monitoring Do what you love and the money will follow.
 Optimization Quantum Computing The only way to do great work is to love what you do. JavaScript Frontend Cache Invalidation Opportunities don't happen. You create them. Agile Backend Kafka Python
+To be the best, you must be able to handle the worst. RabbitMQ Distributed Systems Data Science Server Response OAuth Automation Edge Computing Message Queue Firewalls Don't be afraid to give up the good to go for the great.
