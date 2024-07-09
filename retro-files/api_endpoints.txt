@@ -13,3 +13,4 @@ Act as if what you do makes a difference. It does. Blockchain Algorithm Dream bi
 Quantum Computing GraphQL API Cache Invalidation To be the best, you must be able to handle the worst. Multi-threading Big Data Content Delivery Network Act as if what you do makes a difference. It does. UX Optimization Backend Security Code Review
 Testing DNS Routing API Gateway Don't be afraid to give up the good to go for the great. Python Serverless
 Code Review Docker Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Cloud JavaScript Content Delivery Network
+Happiness is not something ready made. It comes from your own actions. Deployment Dream big and dare to fail. OAuth Scalability Optimization Event-driven Architecture Latency Optimization API IoT Difficult roads often lead to beautiful destinations. Containerization Neural Networks DNS Routing Data Pipeline
