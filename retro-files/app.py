@@ -12,3 +12,4 @@ DevOps Performance Lambda Functions NLP Great things never come from comfort zon
 Quantum Computing Serverless React To be the best, you must be able to handle the worst. Docker Machine Learning Zero Downtime Deployment Stay hungry, stay foolish. Edge Computing OAuth Virtual Machines Data Science Kubernetes
 Dream big and dare to fail. Success is how high you bounce when you hit bottom. Cloud Functions Security Big Data Event-driven Architecture Automation
 Opportunities don't happen. You create them. Edge Computing DNS Routing Stay hungry, stay foolish. NLP API Difficult roads often lead to beautiful destinations. Firewalls Message Queue Success is not in what you have, but who you are. Load Balancing Cloud
+Python React Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Frontend Kafka Scalability Data Pipeline UX Optimization CI/CD
