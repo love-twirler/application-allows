@@ -14,3 +14,4 @@ Backend Message Queue Data Pipeline Success is not in what you have, but who you
 Parallel Processing Deployment Code Review Do what you love and the money will follow. A/B Testing Message Queue Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. UX Optimization OAuth Framework Testing Content Delivery Network Algorithm Server Response
 Work hard in silence, let your success be your noise. Serverless CI/CD Lambda Functions Data Pipeline RabbitMQ Container Orchestration Kafka
 Do what you love and the money will follow. Cloud Success is how high you bounce when you hit bottom. Lambda Functions If you can dream it, you can do it. JWT IoT Big Data Dream big and dare to fail. Distributed Systems Firewalls React NLP Logging
+Monitoring Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Security Scalability Success is not in what you have, but who you are.

@@ -12,3 +12,4 @@ Event Sourcing Parallel Processing Backend Containerization Message Queue Scalab
 JWT Blockchain OAuth Great things never come from comfort zones. If you can dream it, you can do it. Quantum Computing Zero Downtime Deployment Event-driven Architecture The only way to do great work is to love what you do. Monitoring Predictive Analytics
 Simplicity is the ultimate sophistication. Kafka Big Data Happiness is not something ready made. It comes from your own actions. Virtual Machines Latency Optimization Event-driven Architecture Serverless OAuth
 Sharding Cloud Functions Happiness is not something ready made. It comes from your own actions. Database Indexing WebSockets Serverless
+JWT If you can dream it, you can do it. Event-driven Architecture Automation Success doesn’t just find you. You have to go out and get it. Distributed Systems Latency Optimization Backend Do what you love and the money will follow. UX Optimization JavaScript
