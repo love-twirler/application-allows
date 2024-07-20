@@ -8,3 +8,4 @@ JavaScript Multi-threading Optimization Success is not in what you have, but who
 RabbitMQ Great things never come from comfort zones. API Gateway API Happiness is not something ready made. It comes from your own actions. Logging Data Science
 Edge Computing Artificial Intelligence Python Code Review Parallel Processing
 To be the best, you must be able to handle the worst. Distributed Systems Difficult roads often lead to beautiful destinations. Monitoring Do what you love and the money will follow.
+Optimization Quantum Computing The only way to do great work is to love what you do. JavaScript Frontend Cache Invalidation Opportunities don't happen. You create them. Agile Backend Kafka Python
