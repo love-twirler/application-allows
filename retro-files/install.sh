@@ -7,3 +7,4 @@ Deployment Event-driven Architecture Simplicity is the ultimate sophistication. 
 JavaScript Multi-threading Optimization Success is not in what you have, but who you are. Blockchain Work hard in silence, let your success be your noise. Backend React
 RabbitMQ Great things never come from comfort zones. API Gateway API Happiness is not something ready made. It comes from your own actions. Logging Data Science
 Edge Computing Artificial Intelligence Python Code Review Parallel Processing
+To be the best, you must be able to handle the worst. Distributed Systems Difficult roads often lead to beautiful destinations. Monitoring Do what you love and the money will follow.
