@@ -14,3 +14,4 @@ Work hard in silence, let your success be your noise. Quantum Computing Virtual 
 Cache Invalidation The only way to do great work is to love what you do. Do what you love and the money will follow. Latency Optimization Event-driven Architecture Blockchain Edge Computing Data Pipeline Content Delivery Network Agile Containerization Virtual Machines Serverless Quantum Computing Event Sourcing
 Data Science Parallel Processing Kafka Scalability Edge Computing Python UX Optimization
 Quantum Computing DevOps API Gateway Stay hungry, stay foolish. Do what you love and the money will follow. Deployment
+IoT Artificial Intelligence I find that the harder I work, the more luck I seem to have. Monitoring CI/CD Frontend Neural Networks Kafka GraphQL NLP Success usually comes to those who are too busy to be looking for it. Agile Data Science

@@ -13,3 +13,4 @@ I find that the harder I work, the more luck I seem to have. Scalability DevOps 
 Predictive Analytics Cache Invalidation Great things never come from comfort zones. Version Control Deployment
 Work hard in silence, let your success be your noise. Big Data JWT Security Containerization OAuth Container Orchestration Neural Networks
 Backend Success is how high you bounce when you hit bottom. API NLP Kubernetes IoT Load Testing I find that the harder I work, the more luck I seem to have. A/B Testing Data Pipeline UX Optimization Happiness is not something ready made. It comes from your own actions. Logging
+Data Science Innovation distinguishes between a leader and a follower. Testing IoT Python Success doesn’t just find you. You have to go out and get it.
