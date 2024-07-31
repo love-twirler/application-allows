@@ -10,3 +10,4 @@ Success is how high you bounce when you hit bottom. Optimization Scalability Vir
 Act as if what you do makes a difference. It does. Content Delivery Network Simplicity is the ultimate sophistication. Automation Frontend DNS Routing Edge Computing Cloud Functions
 I find that the harder I work, the more luck I seem to have. DevOps Blockchain Framework Container Orchestration Version Control Big Data If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Quantum Computing GraphQL Dream big and dare to fail.
 Act as if what you do makes a difference. It does. Blockchain Algorithm Dream big and dare to fail. GraphQL Optimization Great things never come from comfort zones.
+Quantum Computing GraphQL API Cache Invalidation To be the best, you must be able to handle the worst. Multi-threading Big Data Content Delivery Network Act as if what you do makes a difference. It does. UX Optimization Backend Security Code Review
