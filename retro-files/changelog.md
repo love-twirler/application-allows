@@ -15,3 +15,4 @@ If you can dream it, you can do it. Neural Networks Message Queue API Gateway Da
 GraphQL API DevOps Quantum Computing Testing
 API To be the best, you must be able to handle the worst. Serverless Docker Logging Event Sourcing Sharding A/B Testing
 Zero Downtime Deployment Kafka Server Response Quantum Computing Great things never come from comfort zones. Event Sourcing Data Pipeline Happiness is not something ready made. It comes from your own actions.
+Don't be afraid to give up the good to go for the great. Serverless Python Content Delivery Network Logging Multi-threading Algorithm
