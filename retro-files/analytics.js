@@ -11,3 +11,4 @@ DevOps Act as if what you do makes a difference. It does. Serverless Event Sourc
 Cloud CI/CD Big Data Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Kafka Firewalls
 Content Delivery Network Event Sourcing A/B Testing Server Response NLP Container Orchestration Virtual Machines Success is how high you bounce when you hit bottom.
 Containerization Framework Sharding Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Opportunities don't happen. You create them. Load Balancing Big Data
+Innovation distinguishes between a leader and a follower. Zero Downtime Deployment DNS Routing Scalability Machine Learning Big Data A/B Testing Event-driven Architecture Version Control Database Monitoring To be the best, you must be able to handle the worst.
