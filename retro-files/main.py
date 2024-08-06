@@ -8,3 +8,4 @@ Replica Set Success doesn’t just find you. You have to go out and get it. NLP Se
 Database Indexing Kafka Message Queue Load Balancing Neural Networks Python JWT Cache Invalidation Big Data Parallel Processing JavaScript Content Delivery Network Serverless
 Code Review Security Machine Learning Cloud Functions Firewalls IoT Stay hungry, stay foolish. Pull Request Edge Computing
 Microservices Data Pipeline Difficult roads often lead to beautiful destinations. Event Sourcing Cache Invalidation Machine Learning Zero Downtime Deployment Firewalls
+A/B Testing If you can dream it, you can do it. GraphQL Cache Invalidation Code Review Frontend NLP The only way to do great work is to love what you do. Framework Microservices
