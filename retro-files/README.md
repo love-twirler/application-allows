@@ -6,3 +6,4 @@ CI/CD Pull Request Simplicity is the ultimate sophistication. Scalability Virtua
 Frontend Work hard in silence, let your success be your noise. Distributed Systems Multi-threading API Testing Agile
 Dream big and dare to fail. Do what you love and the money will follow. Success is not in what you have, but who you are. Database Indexing DevOps Docker UX Optimization Zero Downtime Deployment Multi-threading Replica Set Database Content Delivery Network
 IoT Virtual Machines Security JWT Parallel Processing Message Queue API A/B Testing Backend GraphQL UX Optimization Sharding
+Blockchain Opportunities don't happen. You create them. The only way to do great work is to love what you do. Performance Machine Learning Success doesn’t just find you. You have to go out and get it. Automation OAuth

@@ -12,3 +12,4 @@ Docker Logging Backend Difficult roads often lead to beautiful destinations. DNS
 Cache Invalidation OAuth IoT CI/CD Big Data Version Control
 Virtual Machines Lambda Functions Agile Message Queue DevOps NLP
 Simplicity is the ultimate sophistication. If you can dream it, you can do it. Monitoring Act as if what you do makes a difference. It does. API Version Control Dream big and dare to fail. Success is how high you bounce when you hit bottom. Optimization Algorithm WebSockets Backend Quantum Computing The only way to do great work is to love what you do. Neural Networks
+Simplicity is the ultimate sophistication. NLP Cloud Functions Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Framework Parallel Processing WebSockets Quantum Computing Artificial Intelligence Deployment Python Stay hungry, stay foolish. Security
