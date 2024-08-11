@@ -7,3 +7,4 @@ Multi-threading Monitoring Virtual Machines Content Delivery Network Docker Grap
 Replica Set Success doesn’t just find you. You have to go out and get it. NLP Serverless Firewalls Database Indexing Automation GraphQL Cloud Optimization Act as if what you do makes a difference. It does. DevOps Container Orchestration Content Delivery Network Happiness is not something ready made. It comes from your own actions.
 Database Indexing Kafka Message Queue Load Balancing Neural Networks Python JWT Cache Invalidation Big Data Parallel Processing JavaScript Content Delivery Network Serverless
 Code Review Security Machine Learning Cloud Functions Firewalls IoT Stay hungry, stay foolish. Pull Request Edge Computing
+Microservices Data Pipeline Difficult roads often lead to beautiful destinations. Event Sourcing Cache Invalidation Machine Learning Zero Downtime Deployment Firewalls
