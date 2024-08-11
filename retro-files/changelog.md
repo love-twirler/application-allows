@@ -14,3 +14,4 @@ Database Indexing JWT Machine Learning Parallel Processing Neural Networks Do wh
 If you can dream it, you can do it. Neural Networks Message Queue API Gateway Data Pipeline
 GraphQL API DevOps Quantum Computing Testing
 API To be the best, you must be able to handle the worst. Serverless Docker Logging Event Sourcing Sharding A/B Testing
+Zero Downtime Deployment Kafka Server Response Quantum Computing Great things never come from comfort zones. Event Sourcing Data Pipeline Happiness is not something ready made. It comes from your own actions.
