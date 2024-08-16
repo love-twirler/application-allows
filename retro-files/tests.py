@@ -10,3 +10,4 @@ Load Balancing DevOps Success is not in what you have, but who you are. Zero Dow
 Success is how high you bounce when you hit bottom. Sharding Neural Networks Scalability Great things never come from comfort zones.
 Docker Logging Backend Difficult roads often lead to beautiful destinations. DNS Routing UX Optimization The only way to do great work is to love what you do. OAuth Microservices Security Replica Set Message Queue Innovation distinguishes between a leader and a follower. Containerization
 Cache Invalidation OAuth IoT CI/CD Big Data Version Control
+Virtual Machines Lambda Functions Agile Message Queue DevOps NLP

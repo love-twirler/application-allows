@@ -12,3 +12,4 @@ To be the best, you must be able to handle the worst. Scalability Microservices 
 Replica Set Cloud Optimization Automation Server Response To be the best, you must be able to handle the worst. React Data Pipeline Data Science Framework
 Work hard in silence, let your success be your noise. Quantum Computing Virtual Machines Latency Optimization CI/CD Data Pipeline
 Cache Invalidation The only way to do great work is to love what you do. Do what you love and the money will follow. Latency Optimization Event-driven Architecture Blockchain Edge Computing Data Pipeline Content Delivery Network Agile Containerization Virtual Machines Serverless Quantum Computing Event Sourcing
+Data Science Parallel Processing Kafka Scalability Edge Computing Python UX Optimization

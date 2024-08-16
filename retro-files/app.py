@@ -10,3 +10,4 @@ I find that the harder I work, the more luck I seem to have. Stay hungry, stay f
 Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Monitoring Optimization Logging Load Testing WebSockets Quantum Computing Success is how high you bounce when you hit bottom. Performance Automation Success doesn’t just find you. You have to go out and get it. DevOps
 DevOps Performance Lambda Functions NLP Great things never come from comfort zones.
 Quantum Computing Serverless React To be the best, you must be able to handle the worst. Docker Machine Learning Zero Downtime Deployment Stay hungry, stay foolish. Edge Computing OAuth Virtual Machines Data Science Kubernetes
+Dream big and dare to fail. Success is how high you bounce when you hit bottom. Cloud Functions Security Big Data Event-driven Architecture Automation
