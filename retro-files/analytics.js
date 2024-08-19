@@ -10,3 +10,4 @@ Cache Invalidation API DNS Routing Opportunities don't happen. You create them. 
 DevOps Act as if what you do makes a difference. It does. Serverless Event Sourcing Algorithm Edge Computing OAuth Database Cache Invalidation Python Scalability Data Science Event-driven Architecture React NLP
 Cloud CI/CD Big Data Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Kafka Firewalls
 Content Delivery Network Event Sourcing A/B Testing Server Response NLP Container Orchestration Virtual Machines Success is how high you bounce when you hit bottom.
+Containerization Framework Sharding Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Opportunities don't happen. You create them. Load Balancing Big Data
