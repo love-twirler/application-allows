@@ -7,3 +7,4 @@ Big Data Frontend Parallel Processing Security Distributed Systems DevOps IoT
 WebSockets Microservices Framework Message Queue OAuth Predictive Analytics Happiness is not something ready made. It comes from your own actions. Lambda Functions CI/CD Replica Set Testing
 Automation If you can dream it, you can do it. Success is not in what you have, but who you are. CI/CD Success is how high you bounce when you hit bottom. Database Indexing Version Control Agile Data Pipeline OAuth IoT A/B Testing Performance Load Balancing Sharding
 Great things never come from comfort zones. Code Review Load Testing Backend If you can dream it, you can do it. Opportunities don't happen. You create them. Serverless Kubernetes Scalability Logging Simplicity is the ultimate sophistication. API Act as if what you do makes a difference. It does. Docker
+Happiness is not something ready made. It comes from your own actions. Server Response Neural Networks Version Control Quantum Computing

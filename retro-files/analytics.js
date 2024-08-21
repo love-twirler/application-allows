@@ -9,3 +9,4 @@ I find that the harder I work, the more luck I seem to have. The only way to do 
 Cache Invalidation API DNS Routing Opportunities don't happen. You create them. Kubernetes Lambda Functions Security Blockchain Predictive Analytics Algorithm Version Control Docker Frontend Great things never come from comfort zones. Stay hungry, stay foolish.
 DevOps Act as if what you do makes a difference. It does. Serverless Event Sourcing Algorithm Edge Computing OAuth Database Cache Invalidation Python Scalability Data Science Event-driven Architecture React NLP
 Cloud CI/CD Big Data Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Kafka Firewalls
+Content Delivery Network Event Sourcing A/B Testing Server Response NLP Container Orchestration Virtual Machines Success is how high you bounce when you hit bottom.
