@@ -9,3 +9,4 @@ A/B Testing Lambda Functions Do what you love and the money will follow. Microse
 Load Balancing DevOps Success is not in what you have, but who you are. Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. OAuth Distributed Systems I find that the harder I work, the more luck I seem to have.
 Success is how high you bounce when you hit bottom. Sharding Neural Networks Scalability Great things never come from comfort zones.
 Docker Logging Backend Difficult roads often lead to beautiful destinations. DNS Routing UX Optimization The only way to do great work is to love what you do. OAuth Microservices Security Replica Set Message Queue Innovation distinguishes between a leader and a follower. Containerization
+Cache Invalidation OAuth IoT CI/CD Big Data Version Control
