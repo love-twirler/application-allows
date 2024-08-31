@@ -10,3 +10,4 @@ Do what you love and the money will follow. Algorithm Latency Optimization Succe
 Lambda Functions The only way to do great work is to love what you do. Kafka Don't be afraid to give up the good to go for the great. Event-driven Architecture Firewalls DNS Routing Quantum Computing
 Replica Set Load Balancing Scalability Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones.
 Quantum Computing Optimization Version Control Python Success usually comes to those who are too busy to be looking for it. Load Testing
+Backend Message Queue Data Pipeline Success is not in what you have, but who you are. If you can dream it, you can do it. Dream big and dare to fail. OAuth Great things never come from comfort zones. Simplicity is the ultimate sophistication. IoT JavaScript Do what you love and the money will follow.
