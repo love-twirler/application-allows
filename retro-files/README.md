@@ -5,3 +5,4 @@ Framework Innovation distinguishes between a leader and a follower. To be the be
 CI/CD Pull Request Simplicity is the ultimate sophistication. Scalability Virtual Machines Parallel Processing Innovation distinguishes between a leader and a follower. Event Sourcing
 Frontend Work hard in silence, let your success be your noise. Distributed Systems Multi-threading API Testing Agile
 Dream big and dare to fail. Do what you love and the money will follow. Success is not in what you have, but who you are. Database Indexing DevOps Docker UX Optimization Zero Downtime Deployment Multi-threading Replica Set Database Content Delivery Network
+IoT Virtual Machines Security JWT Parallel Processing Message Queue API A/B Testing Backend GraphQL UX Optimization Sharding
