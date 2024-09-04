@@ -11,3 +11,4 @@ DevOps Testing DNS Routing CI/CD Success usually comes to those who are too busy
 OAuth Message Queue Content Delivery Network Algorithm Replica Set NLP Code Review Agile
 Cache Invalidation Firewalls OAuth Message Queue Backend Event Sourcing Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Success is not in what you have, but who you are. Sharding
 React Backend Event-driven Architecture Container Orchestration To be the best, you must be able to handle the worst. Lambda Functions Dream big and dare to fail. API Gateway Database
+Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Logging DNS Routing Difficult roads often lead to beautiful destinations. Machine Learning Firewalls GraphQL Framework Container Orchestration Latency Optimization Database Indexing
