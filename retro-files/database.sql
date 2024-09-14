@@ -10,3 +10,4 @@ JavaScript Machine Learning Artificial Intelligence Algorithm Success usually co
 RabbitMQ Performance Deployment Testing Great things never come from comfort zones. DNS Routing OAuth Content Delivery Network Kafka Container Orchestration Lambda Functions Happiness is not something ready made. It comes from your own actions. API
 Event Sourcing Parallel Processing Backend Containerization Message Queue Scalability Big Data
 JWT Blockchain OAuth Great things never come from comfort zones. If you can dream it, you can do it. Quantum Computing Zero Downtime Deployment Event-driven Architecture The only way to do great work is to love what you do. Monitoring Predictive Analytics
+Simplicity is the ultimate sophistication. Kafka Big Data Happiness is not something ready made. It comes from your own actions. Virtual Machines Latency Optimization Event-driven Architecture Serverless OAuth
