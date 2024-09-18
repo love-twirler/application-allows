@@ -8,3 +8,4 @@ Kafka Stay hungry, stay foolish. Performance Serverless Success doesn’t just fin
 GraphQL Work hard in silence, let your success be your noise. Latency Optimization Performance Frontend UX Optimization Pull Request Security
 Replica Set Kubernetes Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Algorithm Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Quantum Computing The only way to do great work is to love what you do. Frontend React Big Data Load Balancing A/B Testing IoT
 Predictive Analytics Cloud Functions Logging The only way to do great work is to love what you do. Automation Data Pipeline Lambda Functions API Gateway
+Success is not in what you have, but who you are. IoT Opportunities don't happen. You create them. Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it.
