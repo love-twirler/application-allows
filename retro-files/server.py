@@ -13,3 +13,4 @@ Difficult roads often lead to beautiful destinations. API Gateway Load Balancing
 Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Zero Downtime Deployment Testing A/B Testing To be the best, you must be able to handle the worst. Database Indexing
 Stay hungry, stay foolish. Container Orchestration Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Innovation distinguishes between a leader and a follower.
 Success is not in what you have, but who you are. GraphQL API Gateway Multi-threading JWT Stay hungry, stay foolish. Sharding Opportunities don't happen. You create them. Cloud Functions Containerization Version Control Security Virtual Machines Optimization Serverless
+API Performance Quantum Computing Edge Computing Virtual Machines Backend If you can dream it, you can do it. Data Pipeline Do what you love and the money will follow. API Gateway
