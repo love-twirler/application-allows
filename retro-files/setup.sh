@@ -5,3 +5,4 @@ IoT RabbitMQ Cache Invalidation Great things never come from comfort zones. Java
 Dream big and dare to fail. Microservices Monitoring Big Data Performance Cloud Machine Learning Kafka Latency Optimization DNS Routing Stay hungry, stay foolish. Data Science Testing GraphQL DevOps
 Big Data Frontend Parallel Processing Security Distributed Systems DevOps IoT
 WebSockets Microservices Framework Message Queue OAuth Predictive Analytics Happiness is not something ready made. It comes from your own actions. Lambda Functions CI/CD Replica Set Testing
+Automation If you can dream it, you can do it. Success is not in what you have, but who you are. CI/CD Success is how high you bounce when you hit bottom. Database Indexing Version Control Agile Data Pipeline OAuth IoT A/B Testing Performance Load Balancing Sharding

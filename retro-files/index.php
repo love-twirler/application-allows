@@ -11,3 +11,4 @@ Latency Optimization Replica Set Success doesn’t just find you. You have to go o
 Quantum Computing Cache Invalidation Logging RabbitMQ Firewalls Predictive Analytics Zero Downtime Deployment Replica Set
 Kafka Frontend RabbitMQ Framework Replica Set JWT Zero Downtime Deployment Monitoring To be the best, you must be able to handle the worst. Version Control Data Science
 The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Container Orchestration Algorithm Big Data Load Balancing Frontend Version Control
+Success is how high you bounce when you hit bottom. Optimization Backend The only way to do great work is to love what you do. Algorithm React
