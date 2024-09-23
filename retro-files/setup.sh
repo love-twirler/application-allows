@@ -4,3 +4,4 @@ CI/CD Dream big and dare to fail. Success doesn’t just find you. You have to go 
 IoT RabbitMQ Cache Invalidation Great things never come from comfort zones. JavaScript Virtual Machines Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Parallel Processing Sharding Logging Security
 Dream big and dare to fail. Microservices Monitoring Big Data Performance Cloud Machine Learning Kafka Latency Optimization DNS Routing Stay hungry, stay foolish. Data Science Testing GraphQL DevOps
 Big Data Frontend Parallel Processing Security Distributed Systems DevOps IoT
+WebSockets Microservices Framework Message Queue OAuth Predictive Analytics Happiness is not something ready made. It comes from your own actions. Lambda Functions CI/CD Replica Set Testing
