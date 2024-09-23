@@ -9,3 +9,4 @@ Load Testing Blockchain Predictive Analytics GraphQL Message Queue Lambda Functi
 Deployment Big Data A/B Testing Pull Request GraphQL Great things never come from comfort zones. NLP
 DevOps Testing DNS Routing CI/CD Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow.
 OAuth Message Queue Content Delivery Network Algorithm Replica Set NLP Code Review Agile
+Cache Invalidation Firewalls OAuth Message Queue Backend Event Sourcing Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Success is not in what you have, but who you are. Sharding
