@@ -4,3 +4,4 @@ Work hard in silence, let your success be your noise. CI/CD Do what you love and
 UX Optimization Server Response Load Testing Machine Learning Code Review Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them.
 Database Indexing Artificial Intelligence Code Review Database Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it.
 Kafka Big Data Machine Learning Edge Computing CI/CD Monitoring Optimization WebSockets OAuth Multi-threading A/B Testing Zero Downtime Deployment Kubernetes Code Review Version Control
+Artificial Intelligence Agile Data Science Machine Learning Testing Innovation distinguishes between a leader and a follower. Predictive Analytics Firewalls
