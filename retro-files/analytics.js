@@ -5,3 +5,4 @@ UX Optimization Server Response Load Testing Machine Learning Code Review Innova
 Database Indexing Artificial Intelligence Code Review Database Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it.
 Kafka Big Data Machine Learning Edge Computing CI/CD Monitoring Optimization WebSockets OAuth Multi-threading A/B Testing Zero Downtime Deployment Kubernetes Code Review Version Control
 Artificial Intelligence Agile Data Science Machine Learning Testing Innovation distinguishes between a leader and a follower. Predictive Analytics Firewalls
+I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Latency Optimization Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Replica Set Do what you love and the money will follow. Optimization OAuth Serverless React Edge Computing

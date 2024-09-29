@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. Event Sourcing DevO
 OAuth Machine Learning Opportunities don't happen. You create them. Deployment Dream big and dare to fail. Virtual Machines Latency Optimization Framework Success doesn’t just find you. You have to go out and get it. Neural Networks Scalability Big Data Cloud Cloud Functions
 React Zero Downtime Deployment Backend Optimization Containerization Event Sourcing If you can dream it, you can do it.
 Success is not in what you have, but who you are. Automation Big Data Frontend Don't be afraid to give up the good to go for the great. Content Delivery Network Distributed Systems Neural Networks Difficult roads often lead to beautiful destinations. Load Balancing Success is how high you bounce when you hit bottom. IoT CI/CD Agile
+Success is how high you bounce when you hit bottom. Optimization Scalability Virtual Machines Event-driven Architecture JWT Sharding
