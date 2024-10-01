@@ -3,3 +3,4 @@ Scalability I find that the harder I work, the more luck I seem to have. Great t
 Latency Optimization Container Orchestration Backend Performance Load Testing Cloud Kubernetes Python I find that the harder I work, the more luck I seem to have. Firewalls
 Framework Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Monitoring Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Cache Invalidation OAuth Scalability Stay hungry, stay foolish.
 CI/CD Pull Request Simplicity is the ultimate sophistication. Scalability Virtual Machines Parallel Processing Innovation distinguishes between a leader and a follower. Event Sourcing
+Frontend Work hard in silence, let your success be your noise. Distributed Systems Multi-threading API Testing Agile
