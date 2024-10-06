@@ -10,3 +10,4 @@ Success is not in what you have, but who you are. Event Sourcing Event-driven Ar
 Load Testing Cloud Functions Success doesn’t just find you. You have to go out and get it. Data Science Cache Invalidation Stay hungry, stay foolish. Kafka Event-driven Architecture OAuth Quantum Computing
 Blockchain JWT Python Kafka Database A/B Testing Data Science Performance WebSockets Lambda Functions Deployment Load Balancing Code Review
 Difficult roads often lead to beautiful destinations. API Gateway Load Balancing NLP Testing
+Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Zero Downtime Deployment Testing A/B Testing To be the best, you must be able to handle the worst. Database Indexing
