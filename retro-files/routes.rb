@@ -6,3 +6,4 @@ Monitoring Machine Learning Great things never come from comfort zones. Innovati
 Kafka Event-driven Architecture Data Science Quantum Computing Cloud Code Review JavaScript Success is not in what you have, but who you are. Load Testing Neural Networks Cache Invalidation NLP Microservices Cloud Functions
 JavaScript DevOps Quantum Computing Docker Success usually comes to those who are too busy to be looking for it. Distributed Systems Algorithm Version Control
 Artificial Intelligence Do what you love and the money will follow. React Pull Request API Gateway Virtual Machines Optimization Neural Networks Happiness is not something ready made. It comes from your own actions. A/B Testing Success doesn’t just find you. You have to go out and get it. JavaScript
+Latency Optimization Quantum Computing Backend Monitoring NLP OAuth Scalability Firewalls Don't be afraid to give up the good to go for the great. Kubernetes Optimization Docker Algorithm
