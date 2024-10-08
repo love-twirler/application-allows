@@ -6,3 +6,4 @@ Load Balancing Kafka Event Sourcing OAuth Docker Agile Replica Set Success usual
 API Deployment Database Serverless Scalability Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Monitoring DevOps Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Logging Machine Learning
 Cloud Functions Testing Container Orchestration Version Control To be the best, you must be able to handle the worst.
 Machine Learning DNS Routing Python JWT API Gateway Parallel Processing Dream big and dare to fail. Cloud Functions
+Do what you love and the money will follow. Algorithm Latency Optimization Success is how high you bounce when you hit bottom. JavaScript Automation Cloud Functions Success usually comes to those who are too busy to be looking for it. API Gateway DevOps Server Response Data Science WebSockets
