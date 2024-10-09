@@ -8,3 +8,4 @@ Agile Parallel Processing Event-driven Architecture UX Optimization Virtual Mach
 API Algorithm A/B Testing Data Science Scalability The only way to do great work is to love what you do. JWT
 JavaScript Machine Learning Artificial Intelligence Algorithm Success usually comes to those who are too busy to be looking for it. Firewalls CI/CD
 RabbitMQ Performance Deployment Testing Great things never come from comfort zones. DNS Routing OAuth Content Delivery Network Kafka Container Orchestration Lambda Functions Happiness is not something ready made. It comes from your own actions. API
+Event Sourcing Parallel Processing Backend Containerization Message Queue Scalability Big Data
