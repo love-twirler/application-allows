@@ -9,3 +9,4 @@ Don't be afraid to give up the good to go for the great. Frontend Act as if what
 Sharding Dream big and dare to fail. Firewalls Stay hungry, stay foolish. Load Testing If you can dream it, you can do it. API Gateway Great things never come from comfort zones.
 Latency Optimization Replica Set Success doesn’t just find you. You have to go out and get it. Containerization Algorithm Big Data CI/CD Cloud
 Quantum Computing Cache Invalidation Logging RabbitMQ Firewalls Predictive Analytics Zero Downtime Deployment Replica Set
+Kafka Frontend RabbitMQ Framework Replica Set JWT Zero Downtime Deployment Monitoring To be the best, you must be able to handle the worst. Version Control Data Science
