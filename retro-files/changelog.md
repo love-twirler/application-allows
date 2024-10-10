@@ -7,3 +7,4 @@ Blockchain GraphQL Pull Request Success usually comes to those who are too busy 
 JWT Success is not in what you have, but who you are. Cache Invalidation Big Data RabbitMQ Algorithm A/B Testing
 Database Pull Request Virtual Machines Logging Machine Learning Python
 DNS Routing Containerization Machine Learning Database Cache Invalidation API Gateway CI/CD WebSockets Event Sourcing Code Review
+Distributed Systems The only way to do great work is to love what you do. Predictive Analytics Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Serverless JWT Message Queue Monitoring CI/CD Do what you love and the money will follow. Content Delivery Network Opportunities don't happen. You create them. Cloud
