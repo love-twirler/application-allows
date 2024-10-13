@@ -8,3 +8,4 @@ Testing Simplicity is the ultimate sophistication. Neural Networks Stay hungry, 
 Algorithm Python Data Science NLP Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. API A/B Testing
 Success is not in what you have, but who you are. Event Sourcing Event-driven Architecture If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Kubernetes
 Load Testing Cloud Functions Success doesn’t just find you. You have to go out and get it. Data Science Cache Invalidation Stay hungry, stay foolish. Kafka Event-driven Architecture OAuth Quantum Computing
+Blockchain JWT Python Kafka Database A/B Testing Data Science Performance WebSockets Lambda Functions Deployment Load Balancing Code Review
