@@ -6,3 +6,4 @@ Code Review Lambda Functions Frontend Happiness is not something ready made. It 
 WebSockets Load Balancing OAuth If you can dream it, you can do it. Agile
 JWT Edge Computing The only way to do great work is to love what you do. Data Science Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. WebSockets Latency Optimization
 Load Testing Blockchain Predictive Analytics GraphQL Message Queue Lambda Functions If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Cloud Backend To be the best, you must be able to handle the worst. Replica Set JavaScript React Big Data
+Deployment Big Data A/B Testing Pull Request GraphQL Great things never come from comfort zones. NLP
