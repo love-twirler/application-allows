@@ -3,3 +3,4 @@ The only way to do great work is to love what you do. Cloud Functions Cache Inva
 Event-driven Architecture Containerization API Performance IoT Distributed Systems
 Distributed Systems React UX Optimization Logging Virtual Machines Event-driven Architecture Quantum Computing DNS Routing The only way to do great work is to love what you do. CI/CD Act as if what you do makes a difference. It does. Neural Networks Message Queue Agile Algorithm
 To be the best, you must be able to handle the worst. Virtual Machines CI/CD Load Balancing Success is how high you bounce when you hit bottom. Version Control Server Response Do what you love and the money will follow. DevOps UX Optimization Edge Computing
+Quantum Computing JavaScript Firewalls Content Delivery Network Artificial Intelligence Framework Kubernetes Frontend Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Latency Optimization API Monitoring

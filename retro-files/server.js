@@ -6,3 +6,4 @@ Sharding Cloud Don't be afraid to give up the good to go for the great. Python D
 Machine Learning Lambda Functions Load Testing Message Queue Stay hungry, stay foolish. Data Pipeline The only way to do great work is to love what you do.
 Kafka Stay hungry, stay foolish. Performance Serverless Success doesn’t just find you. You have to go out and get it. Neural Networks
 GraphQL Work hard in silence, let your success be your noise. Latency Optimization Performance Frontend UX Optimization Pull Request Security
+Replica Set Kubernetes Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Algorithm Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Quantum Computing The only way to do great work is to love what you do. Frontend React Big Data Load Balancing A/B Testing IoT

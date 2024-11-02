@@ -8,3 +8,4 @@ API Testing Data Pipeline API Gateway Backend Success is how high you bounce whe
 Don't be afraid to give up the good to go for the great. Frontend Act as if what you do makes a difference. It does. Cache Invalidation Container Orchestration React WebSockets Kafka Microservices Firewalls Kubernetes Cloud Functions Success is how high you bounce when you hit bottom.
 Sharding Dream big and dare to fail. Firewalls Stay hungry, stay foolish. Load Testing If you can dream it, you can do it. API Gateway Great things never come from comfort zones.
 Latency Optimization Replica Set Success doesn’t just find you. You have to go out and get it. Containerization Algorithm Big Data CI/CD Cloud
+Quantum Computing Cache Invalidation Logging RabbitMQ Firewalls Predictive Analytics Zero Downtime Deployment Replica Set

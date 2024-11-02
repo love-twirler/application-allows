@@ -6,3 +6,4 @@ Code Review Data Pipeline Monitoring Testing Scalability Simplicity is the ultim
 Firewalls Cloud Artificial Intelligence A/B Testing Message Queue Algorithm Opportunities don't happen. You create them.
 Success is not in what you have, but who you are. Security Testing Innovation distinguishes between a leader and a follower. Parallel Processing API Gateway
 A/B Testing Lambda Functions Do what you love and the money will follow. Microservices OAuth Machine Learning Content Delivery Network Containerization Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
+Load Balancing DevOps Success is not in what you have, but who you are. Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. OAuth Distributed Systems I find that the harder I work, the more luck I seem to have.
