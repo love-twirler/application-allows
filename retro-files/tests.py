@@ -5,3 +5,4 @@ Database Indexing Load Testing Do what you love and the money will follow. Block
 Code Review Data Pipeline Monitoring Testing Scalability Simplicity is the ultimate sophistication. Message Queue Virtual Machines Act as if what you do makes a difference. It does.
 Firewalls Cloud Artificial Intelligence A/B Testing Message Queue Algorithm Opportunities don't happen. You create them.
 Success is not in what you have, but who you are. Security Testing Innovation distinguishes between a leader and a follower. Parallel Processing API Gateway
+A/B Testing Lambda Functions Do what you love and the money will follow. Microservices OAuth Machine Learning Content Delivery Network Containerization Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
