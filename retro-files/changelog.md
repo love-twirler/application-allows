@@ -5,3 +5,4 @@ Backend Work hard in silence, let your success be your noise. Great things never
 The only way to do great work is to love what you do. Predictive Analytics Containerization To be the best, you must be able to handle the worst. Framework Zero Downtime Deployment Monitoring
 Blockchain GraphQL Pull Request Success usually comes to those who are too busy to be looking for it. Data Pipeline IoT Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Message Queue Great things never come from comfort zones. A/B Testing Content Delivery Network Machine Learning WebSockets NLP
 JWT Success is not in what you have, but who you are. Cache Invalidation Big Data RabbitMQ Algorithm A/B Testing
+Database Pull Request Virtual Machines Logging Machine Learning Python
