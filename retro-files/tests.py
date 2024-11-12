@@ -4,3 +4,4 @@ The only way to do great work is to love what you do. Load Testing Cloud Contain
 Database Indexing Load Testing Do what you love and the money will follow. Blockchain Neural Networks Cloud Functions DNS Routing Great things never come from comfort zones. Simplicity is the ultimate sophistication. Predictive Analytics Load Balancing Version Control Artificial Intelligence Quantum Computing
 Code Review Data Pipeline Monitoring Testing Scalability Simplicity is the ultimate sophistication. Message Queue Virtual Machines Act as if what you do makes a difference. It does.
 Firewalls Cloud Artificial Intelligence A/B Testing Message Queue Algorithm Opportunities don't happen. You create them.
+Success is not in what you have, but who you are. Security Testing Innovation distinguishes between a leader and a follower. Parallel Processing API Gateway
