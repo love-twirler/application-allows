@@ -4,3 +4,4 @@ Opportunities don't happen. You create them. Event Sourcing Innovation distingui
 Code Review GraphQL Database Indexing Logging Agile
 Sharding Cloud Don't be afraid to give up the good to go for the great. Python DevOps Simplicity is the ultimate sophistication. Code Review Blockchain
 Machine Learning Lambda Functions Load Testing Message Queue Stay hungry, stay foolish. Data Pipeline The only way to do great work is to love what you do.
+Kafka Stay hungry, stay foolish. Performance Serverless Success doesn’t just find you. You have to go out and get it. Neural Networks

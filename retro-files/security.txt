@@ -3,3 +3,4 @@ Microservices Great things never come from comfort zones. NLP Blockchain Message
 Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Version Control Event Sourcing Happiness is not something ready made. It comes from your own actions. Multi-threading Database Indexing Monitoring Data Science Replica Set Cloud Functions Success doesn’t just find you. You have to go out and get it. Optimization Containerization
 API Gateway Scalability Predictive Analytics Version Control Automation
 Backend Security IoT Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Data Pipeline Framework Scalability Performance The only way to do great work is to love what you do.
+Stay hungry, stay foolish. Framework Content Delivery Network NLP Predictive Analytics Database Indexing Server Response Pull Request Edge Computing Cache Invalidation API Optimization
