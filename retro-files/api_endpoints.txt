@@ -4,3 +4,4 @@ Dream big and dare to fail. Predictive Analytics JWT Data Pipeline Edge Computin
 Firewalls Multi-threading Logging Pull Request Code Review
 I find that the harder I work, the more luck I seem to have. Event Sourcing DevOps Zero Downtime Deployment Cache Invalidation Replica Set Dream big and dare to fail.
 OAuth Machine Learning Opportunities don't happen. You create them. Deployment Dream big and dare to fail. Virtual Machines Latency Optimization Framework Success doesn’t just find you. You have to go out and get it. Neural Networks Scalability Big Data Cloud Cloud Functions
+React Zero Downtime Deployment Backend Optimization Containerization Event Sourcing If you can dream it, you can do it.
