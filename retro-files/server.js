@@ -3,3 +3,4 @@ API Gateway NLP Event-driven Architecture Version Control Cache Invalidation Don
 Opportunities don't happen. You create them. Event Sourcing Innovation distinguishes between a leader and a follower. Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations.
 Code Review GraphQL Database Indexing Logging Agile
 Sharding Cloud Don't be afraid to give up the good to go for the great. Python DevOps Simplicity is the ultimate sophistication. Code Review Blockchain
+Machine Learning Lambda Functions Load Testing Message Queue Stay hungry, stay foolish. Data Pipeline The only way to do great work is to love what you do.
