@@ -5,3 +5,4 @@ Agile Cloud Functions JWT Difficult roads often lead to beautiful destinations. 
 Event Sourcing API Deployment OAuth Load Testing The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Python Logging
 Backend OAuth Artificial Intelligence Container Orchestration Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions.
 Testing Simplicity is the ultimate sophistication. Neural Networks Stay hungry, stay foolish. Content Delivery Network Framework Firewalls Lambda Functions I find that the harder I work, the more luck I seem to have. UX Optimization Pull Request
+Algorithm Python Data Science NLP Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. API A/B Testing
