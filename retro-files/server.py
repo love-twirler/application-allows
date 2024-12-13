@@ -3,3 +3,4 @@ To be the best, you must be able to handle the worst. I find that the harder I w
 Kubernetes Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. React Distributed Systems Latency Optimization Data Science Sharding API Success doesn’t just find you. You have to go out and get it.
 Agile Cloud Functions JWT Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Neural Networks Docker Zero Downtime Deployment A/B Testing Database Indexing Version Control Serverless
 Event Sourcing API Deployment OAuth Load Testing The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Python Logging
+Backend OAuth Artificial Intelligence Container Orchestration Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions.
