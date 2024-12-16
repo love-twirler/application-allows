@@ -1,2 +1,3 @@
 Backend Database Containerization Zero Downtime Deployment Automation UX Optimization DevOps Great things never come from comfort zones. Machine Learning Data Pipeline
 Docker Security Zero Downtime Deployment Data Science Success usually comes to those who are too busy to be looking for it. Algorithm JavaScript Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. OAuth DNS Routing
+CI/CD Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Neural Networks Machine Learning Replica Set Kafka WebSockets Database Indexing The only way to do great work is to love what you do. React Distributed Systems
