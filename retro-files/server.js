@@ -2,3 +2,4 @@ Opportunities don't happen. You create them. Framework Success usually comes to 
 API Gateway NLP Event-driven Architecture Version Control Cache Invalidation Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Algorithm Pull Request Distributed Systems
 Opportunities don't happen. You create them. Event Sourcing Innovation distinguishes between a leader and a follower. Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations.
 Code Review GraphQL Database Indexing Logging Agile
+Sharding Cloud Don't be afraid to give up the good to go for the great. Python DevOps Simplicity is the ultimate sophistication. Code Review Blockchain
