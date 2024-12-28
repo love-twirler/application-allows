@@ -3,3 +3,4 @@ CI/CD Data Science Machine Learning Kafka To be the best, you must be able to ha
 Dream big and dare to fail. Predictive Analytics JWT Data Pipeline Edge Computing Cloud Functions UX Optimization Version Control Performance WebSockets Machine Learning Containerization Load Balancing A/B Testing RabbitMQ
 Firewalls Multi-threading Logging Pull Request Code Review
 I find that the harder I work, the more luck I seem to have. Event Sourcing DevOps Zero Downtime Deployment Cache Invalidation Replica Set Dream big and dare to fail.
+OAuth Machine Learning Opportunities don't happen. You create them. Deployment Dream big and dare to fail. Virtual Machines Latency Optimization Framework Success doesn’t just find you. You have to go out and get it. Neural Networks Scalability Big Data Cloud Cloud Functions
