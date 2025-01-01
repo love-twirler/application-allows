@@ -5,3 +5,4 @@ Parallel Processing Database JWT Lambda Functions Stay hungry, stay foolish. Vir
 Great things never come from comfort zones. Do what you love and the money will follow. Neural Networks Big Data Load Balancing Agile Happiness is not something ready made. It comes from your own actions. Framework Logging DNS Routing To be the best, you must be able to handle the worst. Microservices Message Queue Predictive Analytics
 Artificial Intelligence Microservices Zero Downtime Deployment Frontend Simplicity is the ultimate sophistication. Predictive Analytics Automation
 Agile Parallel Processing Event-driven Architecture UX Optimization Virtual Machines Message Queue Monitoring JavaScript Cloud Framework
+API Algorithm A/B Testing Data Science Scalability The only way to do great work is to love what you do. JWT
