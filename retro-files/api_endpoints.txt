@@ -1,2 +1,3 @@
 CI/CD Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Cloud Functions Replica Set
 CI/CD Data Science Machine Learning Kafka To be the best, you must be able to handle the worst. Message Queue Act as if what you do makes a difference. It does. Database Docker IoT Algorithm Performance Database Indexing Multi-threading Lambda Functions
+Dream big and dare to fail. Predictive Analytics JWT Data Pipeline Edge Computing Cloud Functions UX Optimization Version Control Performance WebSockets Machine Learning Containerization Load Balancing A/B Testing RabbitMQ

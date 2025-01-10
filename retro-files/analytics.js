@@ -1,1 +1,2 @@
 Lambda Functions Work hard in silence, let your success be your noise. Edge Computing Cache Invalidation Success is not in what you have, but who you are. Load Balancing Neural Networks Virtual Machines API JWT Distributed Systems DevOps Code Review Scalability RabbitMQ
+Opportunities don't happen. You create them. NLP Monitoring Lambda Functions Dream big and dare to fail. Distributed Systems Code Review API Gateway Algorithm Sharding
