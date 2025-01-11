@@ -4,3 +4,4 @@ GraphQL Multi-threading Edge Computing Firewalls Success is not in what you have
 Parallel Processing Database JWT Lambda Functions Stay hungry, stay foolish. Virtual Machines Success is not in what you have, but who you are. API Gateway Zero Downtime Deployment Agile NLP I find that the harder I work, the more luck I seem to have.
 Great things never come from comfort zones. Do what you love and the money will follow. Neural Networks Big Data Load Balancing Agile Happiness is not something ready made. It comes from your own actions. Framework Logging DNS Routing To be the best, you must be able to handle the worst. Microservices Message Queue Predictive Analytics
 Artificial Intelligence Microservices Zero Downtime Deployment Frontend Simplicity is the ultimate sophistication. Predictive Analytics Automation
+Agile Parallel Processing Event-driven Architecture UX Optimization Virtual Machines Message Queue Monitoring JavaScript Cloud Framework
