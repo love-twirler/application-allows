@@ -1,1 +1,2 @@
 Backend Database Containerization Zero Downtime Deployment Automation UX Optimization DevOps Great things never come from comfort zones. Machine Learning Data Pipeline
+Docker Security Zero Downtime Deployment Data Science Success usually comes to those who are too busy to be looking for it. Algorithm JavaScript Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. OAuth DNS Routing

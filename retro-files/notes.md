@@ -1,3 +1,4 @@
 Cache Invalidation JavaScript Quantum Computing Virtual Machines Kafka CI/CD Container Orchestration Difficult roads often lead to beautiful destinations. Content Delivery Network Framework IoT
 Load Testing Neural Networks A/B Testing Distributed Systems Virtual Machines Python Load Balancing Latency Optimization Kafka
 Stay hungry, stay foolish. Cloud Quantum Computing Innovation distinguishes between a leader and a follower. Docker Data Science The only way to do great work is to love what you do. UX Optimization Logging DNS Routing Backend Performance Security To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it.
+Blockchain OAuth Database Indexing Kafka Parallel Processing Data Science Dream big and dare to fail. NLP Version Control WebSockets DNS Routing Docker Success is not in what you have, but who you are. Opportunities don't happen. You create them.
