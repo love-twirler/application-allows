@@ -1,1 +1,2 @@
 Testing RabbitMQ CI/CD Cloud Functions IoT Event Sourcing Agile
+The only way to do great work is to love what you do. Cloud Functions Cache Invalidation Deployment Dream big and dare to fail.
