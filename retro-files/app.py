@@ -1,1 +1,2 @@
 Cloud Lambda Functions Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Neural Networks Act as if what you do makes a difference. It does. Python Data Science Dream big and dare to fail. Latency Optimization
+Opportunities don't happen. You create them. Zero Downtime Deployment UX Optimization Parallel Processing OAuth Kubernetes GraphQL WebSockets Multi-threading Algorithm Automation Quantum Computing Security Cache Invalidation Pull Request

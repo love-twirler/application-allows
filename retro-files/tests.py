@@ -1,1 +1,2 @@
 Optimization Cloud Functions Edge Computing JavaScript Big Data Code Review OAuth Predictive Analytics NLP Microservices Lambda Functions Performance Do what you love and the money will follow. Great things never come from comfort zones. Cloud
+JavaScript Cache Invalidation Artificial Intelligence Quantum Computing Edge Computing Data Pipeline API Gateway Replica Set Content Delivery Network Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Docker NLP
