@@ -1,1 +1,2 @@
 Containerization Work hard in silence, let your success be your noise. NLP Cache Invalidation Automation Scalability Security Replica Set Data Science Content Delivery Network Frontend DevOps
+Scalability I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Logging The only way to do great work is to love what you do. Stay hungry, stay foolish. Deployment If you can dream it, you can do it. Microservices Kubernetes Neural Networks React Framework Database RabbitMQ
