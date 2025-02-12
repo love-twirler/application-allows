@@ -1,0 +1,1 @@
+Opportunities don't happen. You create them. Framework Success usually comes to those who are too busy to be looking for it. Replica Set Latency Optimization Do what you love and the money will follow. Cloud Functions Backend Simplicity is the ultimate sophistication.
